@@ -63,5 +63,7 @@ note : you can put val and test the same direction
 
 https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw
 
+if you found your target dataset here no need for creating one 
+
 
 
