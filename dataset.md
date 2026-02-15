@@ -1,35 +1,5 @@
 ## data set structure 
-dataset/
-│
-├── train/images/
-│   ├── img1.jpg
-│   ├── img2.jpg
-│   └── ...
-│
-├── train/labels/
-│   ├── img1.txt
-│   ├── img2.txt
-│   └── ...
-│
-├── val/images/
-│   ├── val1.jpg
-│   ├── val2.jpg
-│   └── ...
-│
-├── val/labels/
-│   ├── val1.txt
-│   ├── val2.txt
-│   └── ...
-│
-├── test/images/
-│   ├── test1.jpg
-│   ├── test2.jpg
-│   └── ...
-│
-├── test/labels/
-│   ├── test1.txt
-│   ├── test2.txt
-│   └── ...
+<img width="168" height="633" alt="Screenshot from 2026-02-15 06-49-52" src="https://github.com/user-attachments/assets/ed2cdf35-ed21-4098-8f51-33964e9cb7c9" />
 
 ## How to label image 
 
