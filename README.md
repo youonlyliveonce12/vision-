@@ -111,6 +111,33 @@ pip install -U ultralytics
 # Or from GitHub main branch
 pip install git+https://github.com/ultralytics/ultralytics.git@main
 
+## install opencv
+
+python3.10 -m pip install opencv-contrib-python
+
+## install labelimg 
+
+git clone https://github.com/heartexlabs/labelImg.git
+
+cd labelImg
+
+pip3 install pyqt5 lxml
+
+pip3 install --user pyqt5 lxml
+
+sudo apt install python3-pyqt5
+
+which pyrcc5
+
+sudo apt install pyqt5-dev-tools
+
+pyrcc5 -o libs/resources.py resources.qrc
+
+
+
+
+
+
 
 
 
