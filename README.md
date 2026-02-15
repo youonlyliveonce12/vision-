@@ -7,8 +7,7 @@ This guide helps you set up **YOLOv8** with **ROS2 ** on Ubuntu 22.04/24.04 usin
 ##  System Requirements
 
 - Ubuntu 22.04 or 24.04  
-- NVIDIA GPU (laptop or desktop)  
-- At least 6GB GPU memory recommended  
+- NVIDIA GPU (laptop or desktop)   
 - Internet connection
 
 **Example:**
